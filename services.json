@@ -1,0 +1,7 @@
+{
+  "services": [
+    "Spooler",
+    "W32Time"
+  ],
+  "autoRefreshIntervalSeconds": 3
+}
